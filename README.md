@@ -30,6 +30,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [2383-add-two-integers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2383-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
