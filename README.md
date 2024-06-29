@@ -27,10 +27,12 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 ## Sorting
 |  |
