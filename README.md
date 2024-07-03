@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [3324-split-the-array](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3324-split-the-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3447-clear-digits](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3447-clear-digits) |
 ## Counting
 |  |
 | ------- |
@@ -44,4 +45,9 @@
 |  |
 | ------- |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [3447-clear-digits](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
