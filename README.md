@@ -35,6 +35,7 @@
 | [0069-sqrtx](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [2383-add-two-integers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2383-add-two-integers) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
