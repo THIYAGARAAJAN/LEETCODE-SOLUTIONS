@@ -7,6 +7,7 @@
 | [0066-plus-one](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [3321-type-of-triangle](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3324-split-the-array) |
@@ -34,6 +35,7 @@
 | [0066-plus-one](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [2383-add-two-integers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2752-sum-multiples) |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [3321-type-of-triangle](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3321-type-of-triangle) |
 ## String
 |  |
