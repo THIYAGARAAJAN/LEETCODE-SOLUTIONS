@@ -20,6 +20,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [2502-sort-the-people](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -81,6 +83,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2502-sort-the-people](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [3447-clear-digits](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3447-clear-digits) |
