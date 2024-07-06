@@ -3,7 +3,7 @@ class Solution {
     {
         int sum=0;
         int temp=x;
-        while(x!=0)
+        while(x>0)
         {
            int  rem=x%10;
             sum=sum+rem;
