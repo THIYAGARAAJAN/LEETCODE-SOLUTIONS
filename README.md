@@ -51,6 +51,7 @@
 | [0367-valid-perfect-square](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [1013-fibonacci-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2752-sum-multiples) |
@@ -95,10 +96,19 @@
 | [0231-power-of-two](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
