@@ -52,6 +52,7 @@
 | [2752-sum-multiples](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3321-type-of-triangle) |
+| [3371-harshad-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3371-harshad-number) |
 ## Binary Search
 |  |
 | ------- |
