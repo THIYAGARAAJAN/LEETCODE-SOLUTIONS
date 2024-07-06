@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
@@ -61,6 +62,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -89,5 +91,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
