@@ -90,11 +90,13 @@
 | [0242-valid-anagram](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2502-sort-the-people](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3447-clear-digits) |
 ## Number Theory
 |  |
