@@ -11,6 +11,7 @@
 | [0287-find-the-duplicate-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0898-transpose-matrix](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2502-sort-the-people](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
@@ -93,6 +94,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
 | [3447-clear-digits](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3447-clear-digits) |
 ## Number Theory
 |  |
@@ -146,4 +148,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
