@@ -18,6 +18,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2442-number-of-arithmetic-triplets](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3324-split-the-array) |
