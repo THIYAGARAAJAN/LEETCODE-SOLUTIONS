@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0069-sqrtx) |
@@ -94,6 +95,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -105,6 +107,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0043-multiply-strings) |
 | [0898-transpose-matrix](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3447-clear-digits) |
