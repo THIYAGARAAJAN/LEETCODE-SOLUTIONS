@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0136-single-number) |
@@ -130,6 +131,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
