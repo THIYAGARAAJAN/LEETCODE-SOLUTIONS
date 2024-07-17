@@ -42,6 +42,7 @@
 ## Counting
 |  |
 | ------- |
+| [1823-determine-if-string-halves-are-alike](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1823-determine-if-string-halves-are-alike) |
 | [3324-split-the-array](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3324-split-the-array) |
 ## Bit Manipulation
 |  |
@@ -104,6 +105,7 @@
 | [0043-multiply-strings](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2502-sort-the-people](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
