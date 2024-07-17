@@ -16,6 +16,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0898-transpose-matrix](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -33,6 +34,7 @@
 | [0242-valid-anagram](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2442-number-of-arithmetic-triplets](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [3324-split-the-array](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3324-split-the-array) |
@@ -86,6 +88,7 @@
 | [0287-find-the-duplicate-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0367-valid-perfect-square) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +99,7 @@
 | [0414-third-maximum-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2502-sort-the-people](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [3321-type-of-triangle](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3321-type-of-triangle) |
@@ -141,6 +145,7 @@
 | [0075-sort-colors](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1894-merge-strings-alternately) |
 | [2442-number-of-arithmetic-triplets](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
 ## Dynamic Programming
