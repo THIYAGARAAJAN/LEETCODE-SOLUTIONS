@@ -34,6 +34,7 @@
 | [0242-valid-anagram](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2442-number-of-arithmetic-triplets](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
@@ -54,6 +55,7 @@
 | [0268-missing-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Math
 |  |
@@ -96,6 +98,7 @@
 | [0242-valid-anagram](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
@@ -108,6 +111,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1894-merge-strings-alternately) |
