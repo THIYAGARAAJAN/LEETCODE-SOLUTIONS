@@ -79,6 +79,7 @@
 | [2083-three-divisors](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2491-smallest-even-multiple) |
+| [2571-find-the-pivot-integer](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2571-find-the-pivot-integer) |
 | [2752-sum-multiples](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3321-type-of-triangle) |
@@ -200,4 +201,8 @@
 | ------- |
 | [2083-three-divisors](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2083-three-divisors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
+## Prefix Sum
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2571-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
