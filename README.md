@@ -121,6 +121,7 @@
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2502-sort-the-people](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2886-faulty-keyboard](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3194-find-words-containing-character) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0043-multiply-strings) |
 | [0898-transpose-matrix](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
+| [2886-faulty-keyboard](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2886-faulty-keyboard) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3447-clear-digits) |
 ## Number Theory
