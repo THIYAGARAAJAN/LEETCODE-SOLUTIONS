@@ -75,6 +75,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2491-smallest-even-multiple) |
 | [2752-sum-multiples](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2752-sum-multiples) |
