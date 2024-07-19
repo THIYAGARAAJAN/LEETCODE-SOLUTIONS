@@ -21,6 +21,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2350-find-closest-number-to-zero](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2350-find-closest-number-to-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2876-number-of-employees-who-met-the-target) |
