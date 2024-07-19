@@ -125,6 +125,7 @@
 | [1894-merge-strings-alternately](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1894-merge-strings-alternately) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2365-percentage-of-letter-in-string](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2886-faulty-keyboard) |
