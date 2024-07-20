@@ -77,6 +77,7 @@
 | [0342-power-of-four](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
@@ -122,6 +123,7 @@
 | [0043-multiply-strings](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1894-merge-strings-alternately) |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
 | [2886-faulty-keyboard](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2886-faulty-keyboard) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
