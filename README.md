@@ -17,6 +17,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0898-transpose-matrix](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -39,6 +40,7 @@
 | [0268-missing-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
+| [1319-unique-number-of-occurrences](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2442-number-of-arithmetic-triplets](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
