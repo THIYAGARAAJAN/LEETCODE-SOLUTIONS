@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
@@ -69,6 +70,7 @@
 | [0050-powx-n](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0326-power-of-three) |
@@ -159,6 +161,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
