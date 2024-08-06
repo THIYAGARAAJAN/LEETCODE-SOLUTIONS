@@ -31,6 +31,7 @@
 | [3324-split-the-array](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3324-split-the-array) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3371-harshad-number) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
 | ------- |
