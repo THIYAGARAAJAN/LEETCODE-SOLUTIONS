@@ -30,6 +30,7 @@
 | [3321-type-of-triangle](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3324-split-the-array) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3515-find-if-digit-game-can-be-won) |
