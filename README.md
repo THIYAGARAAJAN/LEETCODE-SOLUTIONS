@@ -22,6 +22,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2350-find-closest-number-to-zero](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2350-find-closest-number-to-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
@@ -153,6 +154,7 @@
 | [0043-multiply-strings](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2886-faulty-keyboard](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2886-faulty-keyboard) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3447-clear-digits) |
@@ -180,6 +182,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1894-merge-strings-alternately) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
 ## Dynamic Programming
 |  |
