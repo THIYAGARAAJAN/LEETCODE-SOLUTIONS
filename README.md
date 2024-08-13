@@ -15,6 +15,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0890-lemonade-change](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1319-unique-number-of-occurrences) |
@@ -244,4 +245,8 @@
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0092-reverse-linked-list-ii) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
