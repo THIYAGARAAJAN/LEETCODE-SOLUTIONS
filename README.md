@@ -136,6 +136,7 @@
 | [0242-valid-anagram](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0434-number-of-segments-in-a-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1894-merge-strings-alternately) |
