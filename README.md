@@ -21,6 +21,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1835-decode-xored-permutation](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1835-decode-xored-permutation) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -71,6 +72,7 @@
 | [0342-power-of-four](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1835-decode-xored-permutation](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1835-decode-xored-permutation) |
 ## Math
 |  |
 | ------- |
