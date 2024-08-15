@@ -46,6 +46,7 @@
 | [0268-missing-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
+| [0778-reorganize-string](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0778-reorganize-string) |
 | [1319-unique-number-of-occurrences](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2442-number-of-arithmetic-triplets](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0169-majority-element) |
+| [0778-reorganize-string](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0778-reorganize-string) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1823-determine-if-string-halves-are-alike) |
 | [3324-split-the-array](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -125,6 +127,7 @@
 | [0389-find-the-difference](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0778-reorganize-string](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -139,6 +142,7 @@
 | [0389-find-the-difference](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0434-number-of-segments-in-a-string) |
+| [0778-reorganize-string](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0778-reorganize-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1894-merge-strings-alternately) |
@@ -206,6 +210,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -251,5 +256,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
