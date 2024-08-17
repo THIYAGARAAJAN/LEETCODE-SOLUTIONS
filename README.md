@@ -142,6 +142,7 @@
 | [0125-valid-palindrome](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0412-fizz-buzz) |
@@ -264,4 +265,16 @@
 | [0179-largest-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0890-lemonade-change) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
