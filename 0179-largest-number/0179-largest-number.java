@@ -1,39 +1,39 @@
 class Solution {
-    public String largestNumber(int[] nums) {
-        int n = nums.length;
-        String[] arr = new String[n];
-        for(int i = 0; i < n; i++){
-            arr[i] = String.valueOf(nums[i]);
-        }
-        
-        for(int i = 0; i < n - 1; i++){
+    void merge(int[] a,int low,int mid,int high){
+        int temp[]=new int[high-low+1];
+        int i=low,j=mid+1,k=0;
+        while(i<=mid && j<=high){
+
+            long n= 10,m=10;
+            while(a[i] >= n)  n *= 10;
+            while(a[j] >= m)  m *= 10;
             
-            int min = i;
-            for(int j = i + 1; j < n; j++){
-                
-                String s1 = arr[min] + arr[j];
-                String s2 = arr[j] + arr[min];
-                if(s2.compareTo(s1) > 0) { 
-                    min = j;
-                }
-            }
-            String s = arr[i];
-            arr[i] = arr[min];
-            arr[min] = s;
+            long l=a[i]*m+a[j];
+            long h=a[j]*n+a[i];
+            if(l>h)temp[k++]=a[i++];
+            else temp[k++]=a[j++];
         }
-        
-        if(arr[0].charAt(0) == '0'){
-            return "0";
+        while(i<=mid)temp[k++]=a[i++];
+        while(j<=high)temp[k++]=a[j++];
+        k=0;
+        i=low;
+        while(i<=high){
+            a[i++]=temp[k++];
         }
-        
-        String ans = "";
-        for(int i = 0; i < n; i++){
-            ans += arr[i];
+    }
+    void divide(int[] nums,int st,int end){
+        if(st==end)return ;
+        int mid=st+(end-st)/2;
+        divide(nums,st,mid);
+        divide(nums,mid+1,end);
+        merge(nums,st,mid,end);
+    }
+    public String largestNumber(int[] nums) {
+        divide(nums,0,nums.length-1);
+        StringBuilder ans= new StringBuilder();
+        for(int i:nums){
+            ans.append(Integer.toString(i));
         }
-        
-        return ans;
-        
-        
-        
+        return nums[0]==0?"0":ans.toString();
     }
 }
