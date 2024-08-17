@@ -1,39 +1,72 @@
 class Solution {
-    void merge(int[] a,int low,int mid,int high){
-        int temp[]=new int[high-low+1];
-        int i=low,j=mid+1,k=0;
-        while(i<=mid && j<=high){
+    public void merge (int nums[],int si,int mid,int ei){
+        int arr[]=new int[ei-si+1];
+        int i=si;
+        int j=mid+1;
+        int k=0;
 
-            long n= 10,m=10;
-            while(a[i] >= n)  n *= 10;
-            while(a[j] >= m)  m *= 10;
-            
-            long l=a[i]*m+a[j];
-            long h=a[j]*n+a[i];
-            if(l>h)temp[k++]=a[i++];
-            else temp[k++]=a[j++];
+        while(i<=mid && j<=ei){
+            long m1=10;
+            while(m1<=nums[i]){
+                m1*=10;
+            }
+            long m2=10;
+            while(m2<=nums[j]){
+                m2*=10;
+            }
+
+            long val1=nums[i]*m2+nums[j];
+            long val2=nums[j]*m1+nums[i];
+
+            if(val1>=val2){
+                arr[k]=nums[i];
+                i++;k++;
+            }
+            else{
+                arr[k]=nums[j];
+                j++;k++;
+            }
+
         }
-        while(i<=mid)temp[k++]=a[i++];
-        while(j<=high)temp[k++]=a[j++];
-        k=0;
-        i=low;
-        while(i<=high){
-            a[i++]=temp[k++];
-        }
+        while(i<=mid){
+                arr[k]=nums[i];
+                i++;k++;
+            }
+            while(j<=ei){
+                arr[k]=nums[j];
+                j++;k++;
+            }
+
+            int q=si;
+            for(int z=0;z<arr.length;z++){
+                nums[q]=arr[z];
+                q++;
+            }
     }
-    void divide(int[] nums,int st,int end){
-        if(st==end)return ;
-        int mid=st+(end-st)/2;
-        divide(nums,st,mid);
-        divide(nums,mid+1,end);
-        merge(nums,st,mid,end);
+    public void mergeSort(int nums[],int si,int ei){
+        if(si>=ei){
+            return;
+        }
+        int mid=si+((ei-si)/2);
+        mergeSort(nums,si,mid);
+        mergeSort(nums,mid+1,ei);
+        merge(nums,si,mid,ei);
     }
     public String largestNumber(int[] nums) {
-        divide(nums,0,nums.length-1);
-        StringBuilder ans= new StringBuilder();
-        for(int i:nums){
-            ans.append(Integer.toString(i));
+        mergeSort(nums,0,nums.length-1);
+        StringBuilder sb=new StringBuilder("");
+        for(int i=0;i<nums.length;i++){
+            sb.append(nums[i]);
         }
-        return nums[0]==0?"0":ans.toString();
+
+        if(nums[0]==0){
+            return"0";
+        }
+
+        else{
+            return sb.toString();
+        }
+        
+        
     }
 }
