@@ -98,6 +98,7 @@
 | [1013-fibonacci-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1585-the-kth-factor-of-n](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2491-smallest-even-multiple) |
@@ -174,6 +175,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/THIYAGARAAJAN/LEETCODE-SOLUTIONS/tree/master/2491-smallest-even-multiple) |
 ## Recursion
