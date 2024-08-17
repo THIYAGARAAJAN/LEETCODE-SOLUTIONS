@@ -1,11 +1,21 @@
 class Solution {
     public String shortestPalindrome(String s) {
-        String sr = new StringBuilder(s).reverse().toString();
-        for (int i = 0; i < s.length(); i++) {
-            if (s.startsWith(sr.substring(i))) {
-                return sr.substring(0, i) + s;
+        int n = s.length();
+        int i = 0;
+        for (int j = n - 1; j >= 0; j--) 
+        {
+            if (s.charAt(i) == s.charAt(j)) 
+            {
+                i++;
             }
         }
-        return sr + s;
+        if (i == n) {
+            return s;
+        }
+        StringBuilder sb = new StringBuilder(s.substring(i));
+        sb.reverse();
+        sb.append(shortestPalindrome(s.substring(0, i)));
+        sb.append(s.substring(i));
+        return sb.toString();
     }
 }
